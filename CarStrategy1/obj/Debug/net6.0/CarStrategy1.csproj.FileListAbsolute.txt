@@ -1,0 +1,15 @@
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/bin/Debug/net6.0/CarStrategy1
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/bin/Debug/net6.0/CarStrategy1.deps.json
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/bin/Debug/net6.0/CarStrategy1.runtimeconfig.json
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/bin/Debug/net6.0/CarStrategy1.dll
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/bin/Debug/net6.0/CarStrategy1.pdb
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/obj/Debug/net6.0/CarStrategy1.csproj.AssemblyReference.cache
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/obj/Debug/net6.0/CarStrategy1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/obj/Debug/net6.0/CarStrategy1.AssemblyInfoInputs.cache
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/obj/Debug/net6.0/CarStrategy1.AssemblyInfo.cs
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/obj/Debug/net6.0/CarStrategy1.csproj.CoreCompileInputs.cache
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/obj/Debug/net6.0/CarStrategy1.dll
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/obj/Debug/net6.0/refint/CarStrategy1.dll
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/obj/Debug/net6.0/CarStrategy1.pdb
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/obj/Debug/net6.0/CarStrategy1.genruntimeconfig.cache
+/Users/ivan.stoyanov/Projects/CarStrategy/CarStrategy1/obj/Debug/net6.0/ref/CarStrategy1.dll
